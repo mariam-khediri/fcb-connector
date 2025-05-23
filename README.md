@@ -87,10 +87,3 @@ Due to Meta's API restrictions:
 * Automate keyword monitoring with a cron scheduler or Airflow
 
 ---
-
-
-
----
-
-Let me know if you want this tailored for your **Jupyter Notebook** version or want a version in **French** too!
-```
